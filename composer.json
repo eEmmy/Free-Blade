@@ -1,0 +1,23 @@
+{
+  "name": "eemmy/free-blade",
+  "description": "Implementation almost identical to the Laravel framework's Blade template engine",
+  "license": "GPL-2.0-or-later",
+  "support": {
+    "issues": "https://github.com/eEmmy/Free-Blade/issues/",
+    "source": "https://github.com/eEmmy/Free-Blade/"
+  },
+  "author": {
+    "name": "Emmy Gomes",
+    "email": "aou-emmy@outlook.com"
+  },
+  "require": {
+    "php": "^7.2|^8.0",
+    "matthiasmullie/minify": "^1.3"
+  },
+  "version": "2.0.0",
+  "autoload": {
+    "psr-4": {
+      "FreeBlade\\": "src/"
+    }
+  }
+}
