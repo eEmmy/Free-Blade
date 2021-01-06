@@ -6,7 +6,7 @@ Implementation almost identical to the Laravel framework's Blade template engine
 * Composer;
 
 ## Installation
-Include ```"eemmy/free-blade": "1.0.0``` in the require of your *composer.json* file.
+Include ```"eemmy/free-blade": "1.0.0"``` in the require of your *composer.json* file.
 
 ### How to use
 To use Free-Blade you will need, in addition to your views, two more things:
